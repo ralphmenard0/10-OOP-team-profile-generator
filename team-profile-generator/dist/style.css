@@ -1,0 +1,41 @@
+
+/* CARD */
+
+.icon {
+    font-size: 4rem;
+}
+
+.card {
+    background: #ffffff1f;
+    
+}
+
+.card:hover {
+    transform: scale(1.10);
+}
+
+/* FOOTER */
+
+.footer-icon {
+    font-size: 3rem;
+    color: #000000;
+    transition: color 0.2s;
+}
+
+.footer-icon:hover {
+    color: #d1d1d1;
+}
+
+body{
+    background:linear-gradient(to right, #000000, #5b0b0b);
+    color: white;
+    font-weight: 900;
+}
+
+.main{
+    height: 100vh;
+
+}
+.display-2{
+    font-weight: 900;
+}

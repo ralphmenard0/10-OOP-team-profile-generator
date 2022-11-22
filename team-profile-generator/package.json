@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator-By-Ralph",
+  "version": "1.0",
+  "description": "A command-line application that dynamically create an HTML page (from user input) to that displays employee information as cards",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphmenard0"
+  },
+  "author": "Raplph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphmenard0"
+  },
+  "homepage": "https://github.com/ralphmenard0",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
